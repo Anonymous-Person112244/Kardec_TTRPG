@@ -1,5 +1,8 @@
 # Welcome to the Kardec Campaign
 
-Start here.
+# New Player's Guide
+[[Campaign Primer]]
+
+
 
 - [[Don't crash on me]]
